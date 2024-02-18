@@ -1,1 +1,1 @@
-Database Movies and TV Shows from sosac.tv
+Full function add-on for Kodi 20 Nexus
